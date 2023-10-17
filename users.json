@@ -1,0 +1,72 @@
+{
+    "userid1": {
+        "id": "userid1",
+        "username": "admin",
+        "email": "email1@email.hu",
+        "password": "admin",
+        "isAdmin": true
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email2@email.hu",
+        "password": "pw2",
+        "isAdmin": false
+    },
+    "userid3": {
+        "id": "userid3",
+        "username": "user3",
+        "email": "email3@email.hu",
+        "password": "pw3",
+        "isAdmin": false
+    },
+    "648a4f994aeec": {
+        "id": "648a4f994aeec",
+        "username": "upol",
+        "email": "upolsaipidinkyzy@gmail.com",
+        "password": "upol123",
+        "isAdmin": false
+    },
+    "6495f13506e98": {
+        "id": "6495f13506e98",
+        "username": "aizirek",
+        "email": "aizi@gmail.com",
+        "password": "aizi123",
+        "isAdmin": false
+    },
+    "64960ab62f5ea": {
+        "id": "64960ab62f5ea",
+        "username": "madina",
+        "email": "madina@gmail.com",
+        "password": "madina123",
+        "isAdmin": false
+    },
+    "64960c4ebb0ae": {
+        "id": "64960c4ebb0ae",
+        "username": "zhyldyz",
+        "email": "zhyldyz@gmail.com",
+        "password": "zhyldyz123",
+        "isAdmin": false
+    },
+    "64960c62bb35b": {
+        "id": "64960c62bb35b",
+        "username": "asan",
+        "email": "asan@gmail.com",
+        "password": "asan123",
+        "isAdmin": false
+    },
+    "64960c7c08135": {
+        "id": "64960c7c08135",
+        "username": "elina",
+        "email": "elina@gmail.com",
+        "password": "elina123",
+        "isAdmin": false
+    },
+    "64960c8fdefda": {
+        "id": "64960c8fdefda",
+        "username": "asel",
+        "email": "asel@gmail.com",
+        "password": "asel123",
+        "isAdmin": false
+    }
+}

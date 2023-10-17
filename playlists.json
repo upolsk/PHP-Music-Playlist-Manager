@@ -1,0 +1,120 @@
+{
+    "playlist1": {
+        "image": "https:\/\/fitbottomedgirls.com\/wp-content\/uploads\/2016\/01\/2000s-songs.jpg",
+        "name": "Best early 2000s hits",
+        "public": true,
+        "created_by": "upol",
+        "tracks": [
+            "track1"
+        ]
+    },
+    "playlist2": {
+        "image": "https:\/\/www.jukeboxy.com\/assets\/img\/2020_Pop.png",
+        "name": "Unstoppable Pop Jams",
+        "public": true,
+        "created_by": "asan",
+        "tracks": [
+            "track2"
+        ]
+    },
+    "playlist3": {
+        "image": "https:\/\/lhsepic.com\/wp-content\/uploads\/2020\/11\/studying-playlist-cover.jpg",
+        "name": "Ambient Study Session",
+        "public": true,
+        "created_by": "aizirek",
+        "tracks": [
+            "track3"
+        ]
+    },
+    "playlist4": {
+        "image": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732eca20002b3302bdc4531b9f",
+        "name": "Peaceful Nighttime Melodies",
+        "public": true,
+        "created_by": "madina",
+        "tracks": [
+            "track2"
+        ]
+    },
+    "playlist5": {
+        "image": "https:\/\/i1.sndcdn.com\/artworks-Irvkk7URz49E1HBJ-zW3AxA-t500x500.jpg",
+        "name": "Soothing Piano Melodies",
+        "public": true,
+        "created_by": "elina",
+        "tracks": [
+            "track3",
+            "track4"
+        ]
+    },
+    "playlist6": {
+        "image": "https:\/\/i.scdn.co\/image\/ab67706c0000da847d5aa7f81c1db612153cad7a",
+        "name": "Christmas Carols Collection",
+        "public": true,
+        "created_by": "asel",
+        "tracks": [
+            "track5"
+        ]
+    },
+    "playlist7": {
+        "image": "https:\/\/yt3.googleusercontent.com\/ytc\/AGIKgqPlS4bdUSuTT3svvNfyhiKLlGin6RItYnVTNI_Q=s176-c-k-c0x00ffffff-no-rj",
+        "name": "Melodies from the Mountains",
+        "public": true,
+        "created_by": "zhyldyz",
+        "tracks": [
+            "track1"
+        ]
+    },
+    "playlist8": {
+        "image": "https:\/\/images.unsplash.com\/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "name": "Aizirek's Playlist",
+        "public": false,
+        "created_by": "aizirek",
+        "tracks": {
+            "0": "track1",
+            "2": "track4",
+            "3": "track3"
+        }
+    },
+    "playlist9": {
+        "image": "https:\/\/images.unsplash.com\/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "name": "Upol's playlist",
+        "public": false,
+        "created_by": "upol",
+        "tracks": [
+            "track1",
+            "track4"
+        ]
+    },
+    "playlist10": {
+        "image": "https:\/\/images.unsplash.com\/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "name": "Second playlist",
+        "public": false,
+        "created_by": "upol",
+        "tracks": [
+            "track1",
+            "track3",
+            "track4"
+        ]
+    },
+    "playlist11": {
+        "image": "https:\/\/images.unsplash.com\/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "name": "Admin's Playlist",
+        "public": false,
+        "created_by": "admin",
+        "tracks": {
+            "1": "track2",
+            "2": "track3",
+            "3": "track4",
+            "4": "track1"
+        }
+    },
+    "playlist12": {
+        "image": "https:\/\/images.unsplash.com\/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "name": "Asel's playlist",
+        "public": false,
+        "created_by": "asel",
+        "tracks": {
+            "2": "track1",
+            "3": "track2"
+        }
+    }
+}
